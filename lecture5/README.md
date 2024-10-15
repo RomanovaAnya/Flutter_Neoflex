@@ -1,16 +1,7 @@
-# lecture5
+Результат выполнения кода из файла main.dart:
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/d4fe5fbc-4680-4572-9565-12da37c29c41)
 
-## Getting Started
+Результат выполнения кода из файла null_safely.dart:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/8804e8a0-1875-441c-b50d-21746bf9111e)
