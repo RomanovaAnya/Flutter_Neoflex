@@ -1,16 +1,11 @@
-# lecture4
+В данный список можно добавлять, а так же удалять задачи.
 
-A new Flutter project.
+Добавление задачи в список:
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/d1276e23-505c-4de3-b792-ac08eff8a98a)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/bf000a77-c5cb-4097-92e6-707747fb9d19)
 
-A few resources to get you started if this is your first Flutter project:
+Удаление задач из списка:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/b28a6c49-a8e0-44f6-a661-1e666b04a3aa)

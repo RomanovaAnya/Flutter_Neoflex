@@ -1,16 +1,9 @@
-# lecture1
+Создание первого приложения с помощью Flutter. 
 
-A new Flutter project.
+Отображение в веб-браузере:
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/9c965df8-9320-4d65-8cee-3d23c15e227d)
 
-This project is a starting point for a Flutter application.
+Отображение на мобильном устройтве:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/46aa9c8c-92c8-4fb5-865c-d1a85343bf41)
