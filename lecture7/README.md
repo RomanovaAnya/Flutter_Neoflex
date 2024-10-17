@@ -1,16 +1,11 @@
-# lecture7
+Созданный опрос для сотрудников:
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/0e68b8c4-58b9-4413-b73e-9a32ccf5aa71)
 
-## Getting Started
+Заполнение ответов на вопросы: 
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/63cd27a5-a726-4836-99c4-2f014aed860c)
 
-A few resources to get you started if this is your first Flutter project:
+Отправка ответов:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/714a0382-3d06-4c97-bbf9-467c8af473a2)
