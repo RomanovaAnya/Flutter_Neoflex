@@ -1,16 +1,6 @@
-# lecture8
+Выполнение программы:
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/e80e87d8-71e3-4ad0-8dbd-6f9ad0bfb017)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/1f421ef3-9de8-459d-a9b7-cfa438a4a11b)
