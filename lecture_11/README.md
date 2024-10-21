@@ -1,16 +1,20 @@
-# lecture_11
+Работа с базой данных.
 
-A new Flutter project.
+Добавление:
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/6180c04b-7fa5-41f1-8252-47364e9a0d4e)
 
-This project is a starting point for a Flutter application.
+Обновление:
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/c7adc62e-ec54-45f6-bb59-d605493a8856)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Удаление:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/3937df1f-7a71-45ee-a80a-4708afbe7775)
+
+Работа с shared_preferences:
+
+![image](https://github.com/user-attachments/assets/318e8271-45bd-4226-b9e4-e88bb7ba02e4)
+
+![image](https://github.com/user-attachments/assets/64b3fb48-8b75-4ecb-b212-6241c37722bf)
+
