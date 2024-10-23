@@ -1,16 +1,8 @@
-# lecture_13
+Генерация файлов с помощью команды flutter pub run build_runner build:
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/873e9414-df79-4390-81f2-4a43c42bc03b)
 
-## Getting Started
+Сгенерированные файлы:
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/4f20c6a9-eda8-42c1-962b-51f7c7c63942)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
